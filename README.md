@@ -16,7 +16,7 @@ d. 16 битниот уред за секој податок испраќа пр
 **Resenie:**
 
 
-![Screenshot (1)](https://github.com/slavko444/8085-Zadaca-14/blob/main/Diagram%2014.png)
+![Screenshot (1)](https://github.com/Ristova123/Zadaca14-8085/blob/main/Diagram%2014.png)
 
 Главна Програма:
 ```
@@ -57,8 +57,8 @@ RET
 
 ```
 
- ![Screenshot (2)](https://github.com/slavko444/8085-Zadaca-14/blob/main/Code%2014.png)
- ![Screenshot (3)](https://github.com/slavko444/8085-Zadaca-14/blob/main/Code%2014%202.png)
+ ![Screenshot (2)](https://github.com/Ristova123/Zadaca14-8085/blob/main/Code%2014.png)
+ ![Screenshot (3)](https://github.com/Ristova123/Zadaca14-8085/blob/main/Code%2014%202.png)
  
 **Develop by:**
 
